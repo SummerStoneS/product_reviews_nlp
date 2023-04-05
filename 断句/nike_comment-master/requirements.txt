@@ -1,0 +1,7 @@
+pytorch==1.11.0
+tqdm
+boto3
+requests
+regex
+sentencepiece
+sacremoses
