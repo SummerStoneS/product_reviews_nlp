@@ -4,6 +4,7 @@ import pandas as pd
 import numpy as np
 import os
 from langconv import Converter
+import jieba
 
 
 def read_list(path):
